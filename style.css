@@ -16,8 +16,14 @@ body {
 body {
   display: grid;
   place-items: center;
-
 }
+
+body {
+  background: url(imagens/background.svg) no-repeat center/cover;
+   /* width: 100vw;  */
+   min-height: 812px; 
+   height: 100vh;  
+}  
 
 main {
   background: url(imagens/background.svg);
@@ -116,6 +122,10 @@ ul {
   
   justify-content: center;
 }
+
+/* ul li img {
+  border-radius: 0.3rem;
+} */
 
 li a:hover {
   
