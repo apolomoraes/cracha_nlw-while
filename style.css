@@ -18,12 +18,13 @@ body {
   place-items: center;
 }
 
-body {
+/* body {
   background: url(imagens/background.svg) no-repeat center/cover;
    /* width: 100vw;  */
-   min-height: 812px; 
-   height: 100vh;  
-}  
+   /* min-height: 812px;  */
+   /* height: 100vh; */
+/* }  */
+   /* */ 
 
 main {
   background: url(imagens/background.svg);
